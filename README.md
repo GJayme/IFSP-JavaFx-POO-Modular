@@ -1,1 +1,1 @@
-# IFSP-JavaFx-POO-NonModular
+# IFSP-JavaFx-POO-Modular
