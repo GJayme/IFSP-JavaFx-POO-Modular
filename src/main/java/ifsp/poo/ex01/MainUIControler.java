@@ -1,4 +1,4 @@
-package ifsp.poo;
+package ifsp.poo.ex01;
 
 public class MainUIControler {
     private MainUI ui;

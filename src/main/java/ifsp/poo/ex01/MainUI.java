@@ -1,8 +1,6 @@
-package ifsp.poo;
+package ifsp.poo.ex01;
 
 import javafx.application.Application;
-import javafx.event.Event;
-import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
